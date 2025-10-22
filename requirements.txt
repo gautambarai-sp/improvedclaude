@@ -1,0 +1,15 @@
+# 1. Save as lulu_sales_dashboardexe.py
+
+# 2. Create requirements.txt:
+streamlit==1.28.1
+pandas==2.0.3
+numpy==1.24.3
+altair==5.0.1
+
+# 3. Install
+pip install -r requirements.txt
+
+# 4. Run
+streamlit run lulu_sales_dashboardexe.py
+
+# 5. Deploy to Streamlit Cloud (paste GitHub repo)
